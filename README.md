@@ -1,3 +1,11 @@
+# Riccardo
+
+Below there's a copy of the original README.
+
+This project is a test for Acropolis in `google.com:biglamp`. Let's see if I can save and commit to github.
+
+Prova 1 2 3 vediamo se salva.
+
 # WordPress on App Engine Starter Project
 
 ***Note: This repo is essentially the "source" of the starter projects, allowing you to browse our code, suggest changes, etc. We provide already-built-and-zipped WordPress projects for Windows, Mac, and Linux at [Quick Start WordPress for Google App Engine](http://googlecloudplatform.github.io/appengine-php-wordpress-starter-project/).***

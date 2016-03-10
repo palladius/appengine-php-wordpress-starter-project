@@ -2,7 +2,6 @@
 
 #  move_files_after_editing.sh
 #  
-#
 #  Created by John Mulhausen on 10/17/13.
 #
 cp -fr wp-config.php wordpress/
